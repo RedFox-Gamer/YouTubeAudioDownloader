@@ -7,9 +7,9 @@ Download YouTube video's audio easily with this simple Python script.
 - Start the script. Your video's audio will be in the same directory as your .py file.
 
 **Common error:**
-'youtube-dl not found'
+ - 'youtube-dl not found'
 **Solution:**
-'pip install youtube.dl'
+ - 'pip install youtube.dl'
 
 
 Tutorial available on my *Instagram* page: https://www.instagram.com/p/CHvZmGpJH8P/
